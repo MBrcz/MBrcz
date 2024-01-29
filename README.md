@@ -16,7 +16,8 @@ Did you know that introduced in 2021 Excel function Let allows you to "code" alm
         return  
       )"  
       
-  It might be handy in case of some advanced formulas, also you can combine it with "lambda", that allows you to declare your own formulas without even opening the developer tab.
+  It might be handy in case of some advanced formulas, also you can combine it with "lambda", that allows you 
+  to declare your own formulas without even opening the developer tab.
 </pre>
 <!---
 MBrcz/MBrcz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
