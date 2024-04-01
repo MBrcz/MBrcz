@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MBrcz
 - 👀 I’m interested in Power Bi (DAX) / Ms Excel / Pandas && bs4 (Python) coding.
-- 🌱 I’m currently learning Power BI / Excel / Python. Becouse in those sectors you learn your whole live, don't you? But mostly focusing on Power Bi right now.
+- 🌱 I’m currently learning Power BI / Excel / Python. Becouse in those sectors you learn your whole live, don't you?
 
 <pre>
 Did you know that introduced in 2021 Excel function Let allows you to "code" almost just like in normal programming languages? <br />
